@@ -1,0 +1,39 @@
+h4{
+   color: #979494;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: caslon;
+    color:black;
+    
+}
+h3{
+    font-size: 40px;
+}
+
+h6{
+    color: black;
+}
+h5{
+    color: #e8a34f;
+    font-family: Impact;
+    font-size: 20px;
+}
+
+h3{
+    font-family: constantia;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.btn-outline-light {
+    color: #edc228;
+    border-color: rgb(255, 184, 52);
+}
